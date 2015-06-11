@@ -1,5 +1,5 @@
 //@isTest
-public class Abhiclass7 {
+public class Abhiclass6 {
 
     /*public static testmethod void t1() {
         helloMethod();
